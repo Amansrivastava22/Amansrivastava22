@@ -53,6 +53,26 @@
 
 ---
 
+
+
+
+
+## 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nietlab123?theme=dark&font=Roboto)](https://leetcode.com/u/nietlab123/)
+
+```text
+📊 Problem Solving Stats:
+✔️ Total Solved: [Your Current Count]
+🎯 Easy: [31] | Medium: [48] | Hard: [2]
+🔥 Current Streak: [100] days
+
+
+
+
+
+
+
 ## 📜 Certifications
 
 - **Java Programming**: Arrays, Lists, and Structured Data (Sep 2021)
